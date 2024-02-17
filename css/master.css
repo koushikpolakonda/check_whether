@@ -1,0 +1,64 @@
+body {
+    background-color: #d7d7d7;
+    color: black;
+}
+h1 {
+    text-align: center;
+}
+.Weather {
+    margin: auto;
+    text-align: center;
+}
+
+.icon {
+width: 170px;
+margin-top: 30px;
+}
+
+.results {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+.cols {
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.date{
+    text-align: center;
+}
+.icon {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+
+}
+
+.weather-desc {
+    align-items: center;
+    text-align: center;
+
+}
+
+.temp1 {
+    align-items: center;
+    text-align: center;
+}
+
+.temp2 {
+    align-items: center;
+    text-align: center;
+}
+
+.copyright-text{
+
+    text-align: center;
+    position: relative;
+}
